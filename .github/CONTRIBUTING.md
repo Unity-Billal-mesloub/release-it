@@ -80,13 +80,13 @@ npm link release-it
 ```
 
 [1]: ./CODE_OF_CONDUCT.md
-[2]: https://github.com/release-it/release-it/issues/new
-[3]: https://github.com/release-it/release-it/releases
-[4]: https://github.com/release-it/release-it/blob/main/README.md
+[2]: https://github.com/Unity-Billal-mesloub/release-it/issues/new
+[3]: https://github.com/Unity-Billal-mesloub/release-it/releases
+[4]: https://github.com/Unity-Billal-mesloub/release-it/blob/main/README.md
 [5]: ../README.md#troubleshooting--debugging
 [6]:
   https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request
 [7]: https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github
-[8]: https://github.com/release-it/release-it/actions
+[8]: https://github.com/Unity-Billal-mesloub/release-it/actions
 [9]: https://docs.github.com/en/get-started/quickstart/fork-a-repo
 [10]: https://docs.npmjs.com/cli/link.html
